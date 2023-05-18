@@ -129,3 +129,17 @@ void searchData() {
 		cout << "Data tidak ditemukan" << endl;
 	}
 }
+
+int main() {
+	int pilihan;
+	do
+	{
+		try
+		{
+
+			cout << "1. Tambah Data" << endl;
+			
+
+		}
+	}
+}
