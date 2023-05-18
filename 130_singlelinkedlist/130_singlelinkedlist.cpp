@@ -7,7 +7,9 @@ struct Node {
 	Node* next;
 };
 
-Node* addNode() {
+Node* START = NULL;
+
+void addNode() {
 	int nim;
 	string nama;
 	Node* nodeBaru = new Node();
